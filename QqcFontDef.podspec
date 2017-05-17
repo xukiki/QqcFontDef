@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.requires_arc  = true
 
   s.name         = "QqcFontDef"
-  s.version      = "1.0.0"
+  s.version      = "1.0.10"
   s.summary      = "QqcFontDef"
   s.homepage     = "https://github.com/xukiki/QqcFontDef"
   s.source       = { :git => "https://github.com/xukiki/QqcFontDef.git", :tag => "#{s.version}" }
